@@ -28,10 +28,11 @@ $ git clone https://huggingface.co/username/repo_name
 
 Then add, commit and push any file you want, including large files
 
-```#save files via `.save_pretrained()` or move them here
-$git add .
-$git commit -m "commit from $USER"
-$git push
+```
+#save files via `.save_pretrained()` or move them here
+$ git add .
+$ git commit -m "commit from $USER"
+$ git push
 ```
 
 

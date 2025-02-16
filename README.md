@@ -43,6 +43,7 @@ For example for a transformers model, anyone can load it with:
 tokenizer = AutoTokenizer.from_pretrained("username/repo_name")
 model = AutoModel.from_pretrained("username/repo_name")
 ```
+"
 
 
 

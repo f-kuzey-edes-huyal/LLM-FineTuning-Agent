@@ -20,10 +20,10 @@ $huggingface-cli login
 
 Clone your model, dataset or Space locally
 
-```#Make sure you have git-lfs installed
-#(https://git-lfs.github.com)
-$git lfs install
-$git clone https://huggingface.co/username/repo_name
+```# Make sure you have git-lfs installed
+# (https://git-lfs.github.com)
+$ git lfs install
+$ git clone https://huggingface.co/username/repo_name
 ```
 
 Then add, commit and push any file you want, including large files

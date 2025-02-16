@@ -35,7 +35,14 @@ $ git commit -m "commit from $USER"
 $ git push
 ```
 
+In most cases, if you're using one of the compatible libraries, your repo will then be accessible from code, through its identifier: username/repo_name
 
+For example for a transformers model, anyone can load it with:
+
+```
+tokenizer = AutoTokenizer.from_pretrained("username/repo_name")
+model = AutoModel.from_pretrained("username/repo_name")
+```
 
 
 

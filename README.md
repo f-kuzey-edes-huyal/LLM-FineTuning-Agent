@@ -45,6 +45,8 @@ model = AutoModel.from_pretrained("username/repo_name")
 ```
 "
 
+https://www.youtube.com/watch?v=ZEqSuggBKo8
+
 [How to Fine-Tune LLaMA 3.1 Locally: A Step-by-Step Guide](https://medium.com/@adarsh.ajay/how-to-fine-tune-llama-3-1-locally-a-step-by-step-guide-341de509d64f)
 
 https://www.reddit.com/r/Codeium/comments/1h4jo15/how_to_configure_windsurf_to_use_local_llms_such/

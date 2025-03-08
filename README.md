@@ -54,5 +54,6 @@ https://www.youtube.com/watch?v=ZEqSuggBKo8
 https://www.reddit.com/r/Codeium/comments/1h4jo15/how_to_configure_windsurf_to_use_local_llms_such/
 
 
-__Notes:__ [windsurf ai](https://codeium.com/windsurf)
-
+__Notes:__ [windsurf ai](https://codeium.com/windsurf) (AJ suggested)
+-  https://replit.com/  (AJ suggested)
+-  https://lovable.dev/ (AJ suggested)
